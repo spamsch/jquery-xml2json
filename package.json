@@ -1,0 +1,90 @@
+{
+  "_from": "git+https://github.com/sparkbuzz/jquery-xml2json.git",
+  "_id": "jquery-xml2json@0.0.4",
+  "_inBundle": false,
+  "_location": "/jquery-xml2json",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "jquery-xml2json@git+https://github.com/sparkbuzz/jquery-xml2json.git",
+    "name": "jquery-xml2json",
+    "escapedName": "jquery-xml2json",
+    "rawSpec": "git+https://github.com/sparkbuzz/jquery-xml2json.git",
+    "saveSpec": "git+https://github.com/sparkbuzz/jquery-xml2json.git",
+    "fetchSpec": "https://github.com/sparkbuzz/jquery-xml2json.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://github.com/sparkbuzz/jquery-xml2json.git#9e394c18a997d0a5de99c545a798460929581dd8",
+  "_spec": "jquery-xml2json@git+https://github.com/sparkbuzz/jquery-xml2json.git",
+  "_where": "/Users/spamies/Projects/wta/baseline-frontend",
+  "author": {
+    "name": "Josef van Niekerk",
+    "email": "josef.van.niekerk@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/sergeyt/jQuery-xml2json/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Josef van Niekerk",
+      "email": "josef.van.niekerk@gmail.com"
+    },
+    {
+      "name": "Coty Condry",
+      "email": "coty@spinsci.com"
+    },
+    {
+      "name": "josefvanniekerk",
+      "email": "josef.van.niekerk@gmail.com"
+    }
+  ],
+  "dependencies": {},
+  "deprecated": false,
+  "description": "jQuery plugin to convert XML to JSON.",
+  "devDependencies": {
+    "expect.js": "~0.2.0",
+    "grunt": "~0.4.1",
+    "grunt-auto-release": "~0.0.2",
+    "grunt-bump": "~0.0.7",
+    "grunt-cli": "~0.1.11",
+    "grunt-contrib-jshint": "~0.7.1",
+    "grunt-karma": "~0.9.0",
+    "grunt-npm": "~0.0.2",
+    "karma": "~0.12",
+    "karma-chrome-launcher": "~0.1",
+    "karma-coffee-preprocessor": "~0.1.1",
+    "karma-coverage": "~0.1.4",
+    "karma-firefox-launcher": "~0.1",
+    "karma-html2js-preprocessor": "~0.1.0",
+    "karma-jasmine": "~0.1",
+    "karma-mocha": "~0.1.1",
+    "karma-phantomjs-launcher": "~0.1.1",
+    "karma-requirejs": "~0.2.0",
+    "karma-script-launcher": "~0.1",
+    "mocha": "~1.15.1",
+    "requirejs": "~2.1.9",
+    "xml2js": "~0.4.0"
+  },
+  "homepage": "https://github.com/sergeyt/jQuery-xml2json#readme",
+  "keywords": [
+    "jQuery-plugin",
+    "xml",
+    "json"
+  ],
+  "license": "MIT",
+  "main": "src/xml2json.js",
+  "name": "jquery-xml2json",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sergeyt/jQuery-xml2json.git"
+  },
+  "scripts": {
+    "lint": "grunt lint",
+    "test": "grunt test"
+  },
+  "version": "0.0.4"
+}
